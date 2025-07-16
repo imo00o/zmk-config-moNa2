@@ -126,10 +126,10 @@
 
         layer_7 {
             bindings = <
-&kp EXCLAMATION  &kp LEFT_BRACKET  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                &kp EQUAL         &kp LS(NUMBER_6)  &kp TILDE        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp QUESTION     &kp LS(SQT)       &kp LS(MINUS)     &kp MINUS         &kp LS(SEMI)              &kp LS(NUMBER_2)  &kp LS(N7)        &kp LS(AT_SIGN)  &kp LEFT_BRACE        &kp RIGHT_BRACE
-&trans           &trans            &trans            &kp SEMICOLON     &kp SQT                   &kp SEMICOLON     &kp SQT           &kp PIPE         &kp LEFT_BRACKET      &kp RIGHT_BRACKET
-&trans           &trans            &trans            &trans            &trans        &trans      &trans            &trans            &trans           &kp INT_RO            &kp SLASH
+&kp EXCLAMATION  &kp LEFT_BRACKET  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                &kp LS(N5)        &kp EQUAL   &kp LS(NUMBER_6)   &kp LS(N8)       &kp LS(N9)
+&kp QUESTION     &kp LS(SQT)       &kp LS(MINUS)     &kp MINUS         &kp LS(SEMI)              &kp LS(NUMBER_2)  &kp LS(N7)  &kp LS(AT_SIGN)    &kp RIGHT_BRACE  &kp PIPE
+&trans           &trans            &trans            &kp SEMICOLON     &kp SQT                   &kp SEMICOLON     &kp SQT     &kp LS(BACKSLASH)  &kp BACKSLASH    &kp LEFT_BRACKET
+&trans           &trans            &trans            &trans            &trans        &trans      &trans            &trans      &trans             &kp INT_RO       &kp SLASH
             >;
         };
     };
