@@ -128,7 +128,7 @@
             bindings = <
 &kp EXCLAMATION  &kp LEFT_BRACKET  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                &kp LS(N5)        &kp EQUAL   &kp LS(NUMBER_6)      &kp LS(N8)         &kp LS(N9)
 &kp QUESTION     &kp LS(SQT)       &kp LS(MINUS)     &kp MINUS         &kp LS(SEMI)              &kp LS(NUMBER_2)  &kp LS(N7)  &kp LS(LEFT_BRACKET)  &kp RIGHT_BRACE    &kp PIPE
-&trans           &trans            &trans            &kp SEMICOLON     &kp SQT                   &kp SEMICOLON     &kp SQT     &kp LS(INT_YEN)       &kp RIGHT_BRACKET  &kp BACKSLASH
+&kp LEFT_SHIFT   &trans            &trans            &kp SEMICOLON     &kp SQT                   &kp SEMICOLON     &kp SQT     &kp LS(INT_YEN)       &kp RIGHT_BRACKET  &kp BACKSLASH
 &trans           &trans            &trans            &trans            &trans        &trans      &trans            &trans      &trans                &kp INT_RO         &kp SLASH
             >;
         };
