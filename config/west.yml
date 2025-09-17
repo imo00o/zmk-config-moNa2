@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: sayu-hub
-      url-base: https://github.com/sayu-hub
+    - name: imo00o
+      url-base: https://github.com/imo00o
     - name: caksoylar  # <-- new entry
       url-base: https://github.com/caksoylar  
   projects:
@@ -12,7 +12,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-pmw3610-driver
-      remote: sayu-hub
+      remote: imo00o
       revision: main
     - name: zmk-rgbled-widget  # <-- new entry
       remote: caksoylar
