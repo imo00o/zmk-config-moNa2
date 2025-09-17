@@ -19,8 +19,8 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: FrostOrtho_R rgbled_adapter
+    shield: FrostOrtho_R
   - board: seeeduino_xiao_ble
-    shield: FrostOrtho_L rgbled_adapter
+    shield: FrostOrtho_L
   - board: seeeduino_xiao_ble
     shield: settings_reset
